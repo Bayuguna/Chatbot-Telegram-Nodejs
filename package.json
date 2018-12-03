@@ -1,0 +1,20 @@
+{
+  "name": "mcabot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mysql": "^2.16.0",
+    "node-telegram-bot-api": "^0.30.0",
+    "telebot": "^1.2.6",
+    "telegram-node-bot": "^4.0.5"
+  }
+}
